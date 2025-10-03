@@ -1,0 +1,30 @@
+UAT FRAMEWORK - FINAL RESULTS SUMMARY
+==================================================
+
+COSMOLOGICAL PARAMETERS:
+H₀ Planck: 67.36 km/s/Mpc
+H₀ SH0ES: 73.04 km/s/Mpc
+Ω_m: 0.315
+Ω_b: 0.0493
+Ω_de: 0.685
+r_d: 147.09 Mpc
+θ* Planck: 0.010411
+
+OPTIMAL UAT PARAMETERS:
+k_early: 0.9800
+r_d UAT: 134.29 Mpc
+θ* UAT: 0.009592
+χ² BAO: 142.75
+θ* Error: 7.87%
+
+COMPARISON RESULTS:
+Δχ²: -19.91
+Δr_d: +8.70%
+
+BAO DATA FITTING:
+z	Observation	ΛCDM Prediction	UAT Prediction
+0.38	10.41	10.51
+0.51	13.46	13.60
+0.61	15.64	15.80
+1.48	28.21	28.50
+2.33	48.74	49.23
